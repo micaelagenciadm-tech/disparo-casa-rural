@@ -1,0 +1,10 @@
+{
+  "name": "disparo-casa-rural",
+  "version": "1.0.0",
+  "main": "disparar.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "csv-parser": "^3.0.0"
+  }
+}
